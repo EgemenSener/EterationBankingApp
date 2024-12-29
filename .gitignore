@@ -22,6 +22,8 @@ bin/
 *.iml
 *.ipr
 out/
+src/main/resources/database-properties
+.env
 
 ### NetBeans ###
 /nbproject/private/
